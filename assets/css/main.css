@@ -189,7 +189,7 @@ nav a#openup {
   display: none;
 }
   
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 786px) {
   .hide-on-small{
     display: none;
   }
